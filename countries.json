@@ -25,5 +25,16 @@
             "capital": "Cairo",
             "area": 1010408
         }
+    },
+    {
+        "model": "countries.country",
+        "pk": 4,
+        "fields": {
+            "name": "Dubai",
+            "capital": "dubai",
+            "area": 1010402
+        }
     }
+    
+
 ]
